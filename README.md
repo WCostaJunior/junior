@@ -5,7 +5,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 Formado em 1998 como Técnico em Processamento de Dados, estive por muito tempo esteve longe de atividades profissionais na área de TI. Mas há época tive muitas, boas e agradáveis experiências na área, desde a programação até manutenção de equipamentos. Atuei em desenvolvimento de aplicações em cobol, pascal e por último Delphi. E na área da manutenção, como service desk e suporte de campo de grandes empresas. Essa experiência acabou me levando para outros caminhos, onde conheci a área comercial e por lá permaneci por muitos anos, me afastando da área de TI.
 
