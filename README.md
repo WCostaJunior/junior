@@ -12,9 +12,9 @@ Nesta história, os capítulos que forjaram meu legado profissional foi o ramo S
 
 Hoje estou em busca de uma transição de carreira, decidi voltar a alguns bons anos atrás e retomar meus estudos e qualificar no mercado de TI, desta vez focado na área de desenvolvimento. É uma reconstrução, quisá, um resgate da minha história que sempre caminhou em paralelo a tudo o que fiz, a paixão pela área de teconologia. Assim, estou buscando escrever um novo capitulo na minha história profissional, agora na área de tecnologia como desenvolvedor.
 
-Para isso, estou cursando Full-Stack Developer pela Escola TipsCode, pausado atualmente, pois estou aproeitando uma oportunidade ímpar que é o Bootcamp Suzano - Python Developer, na plataforma DIO.
+Para isso, estou cursando Full-Stack Developer pela Escola TipsCode, pausado atualmente, pois estou aproveitando uma oportunidade ímpar que é o Bootcamp Suzano - Python Developer, na plataforma DIO.
 
-Conto com o apoio e compreensão de todos que por aqui passarem e lerem minha apresentação. Espero poder contar com a colaboração dos amigos e futuros amigos e me colocar à disposição de todos para ambos se desenvolvolvam profissionalmente.
+Conto com o apoio e compreensão de todos que por aqui passarem e lerem minha apresentação. Espero poder contar com a colaboração dos amigos e futuros amigos e me colocar à disposição de todos para que ambos se desenvolvolvam profissionalmente.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WCostaJunior&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
